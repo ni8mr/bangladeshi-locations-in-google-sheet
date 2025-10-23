@@ -32,7 +32,7 @@ From **Extensions** select **App Script**:
 ![Script option](./images/script_option.png)
 
 
-A new tab will be opened for adding script. Paste the script code at the **Code.gs** file.
+A new tab will be opened for adding script. Paste the script code (from the **code.js** file of this repository) to the **Code.gs** file.
 
 
 ![Code GS](./images/script_view.png)
