@@ -58,8 +58,9 @@ You can run the script by clicking on the **Run**. But at first confirm the shee
 Note that, there is a variable named **lastRow** inside the **setupDivisionAndDistrictAndUpazilaDropdowns** function. You can edit it to fix the row until which you want to load initial (division) data. For now, from 2nd row to 10th row is populated initially.
 
 
-# Important note
+# Important notes
 
-**Google sheet update doesn't become visible immediately**. You need to click on a differet cell to trigger the re-render of the sheet and relevant changes will become visible. 
+1. **Google sheet update doesn't become visible immediately**. You need to click on a differet cell to trigger the re-render of the sheet and relevant changes will become visible. <br>Example - After updating **division** selection, click on a different cell and than dropdown with the relevant **districts** will become available.
 
-Example - After updating **division** selection, click on a different cell and than dropdown with the relevant **districts** will become available. 
+
+2. **You need to provide necessary permission to the script to access your google sheet.** 
