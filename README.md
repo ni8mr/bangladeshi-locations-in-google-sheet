@@ -60,7 +60,7 @@ Note that, there is a variable named **lastRow** inside the **setupDivisionAndDi
 
 # Important notes
 
-1. **Google sheet update doesn't become visible immediately**. You need to click on a differet cell to trigger the re-render of the sheet and relevant changes will become visible. <br>Example - After updating **division** selection, click on a different cell and than dropdown with the relevant **districts** will become available.
+1. **Google sheet update doesn't become visible immediately**. You can wait for 1-2 seconds or click on a differet cell to trigger the re-render of the sheet and relevant changes will become visible. <br>Example - After updating **division** selection, you can click on a different cell and than dropdown with the relevant **districts** will become available.
 
 
 2. **You need to provide necessary permission to the script to access your google sheet.** 
